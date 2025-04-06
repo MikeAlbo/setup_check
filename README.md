@@ -5,4 +5,7 @@ checking to see if the github CLI works
 * do nothing
 * do more of nothing
 
+##  coursera vesion control 
+* clone via HTTPS 
+* push back to repo
 ## the end 
